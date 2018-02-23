@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (GLFW_window.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Config.cpp
+  Cube.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  C:\glfw-3.2.1\include\GLFW/glfw3.h(98): note: see previous definition of 'APIENTRY'
+  glslprogram.cpp
+  glutils.cpp
+  Joystick.cpp
+  Logger.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  C:\glfw-3.2.1\include\GLFW/glfw3.h(98): note: see previous definition of 'APIENTRY'
+main.cpp(76): warning C4102: 'std': unreferenced label
+main.cpp(545): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+main.cpp(546): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+main.cpp(573): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+main.cpp(586): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  TextureManager.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1279 of 1299 functions (98.5%) were compiled, the rest were copied from previous compilation.
+    25 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GLFW_window.vcxproj -> D:\College\Second Year\First Term\Interactive Media - 3D Graphics Programming\Valcourt_Hugo_LegoBlock - LightArray\Lighting5_Specular\x64\Release\LegoWithLightArrays.exe

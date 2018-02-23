@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GLFW_window.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\glfw-3.2.1\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+d:\college\second year\interactive media - 3d graphics programming\valcourt_hugo_legoblock - lightarray\lighting5_specular\glfw_window\main.cpp(76): warning C4102: 'std': unreferenced label
+d:\college\second year\interactive media - 3d graphics programming\valcourt_hugo_legoblock - lightarray\lighting5_specular\glfw_window\main.cpp(463): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\college\second year\interactive media - 3d graphics programming\valcourt_hugo_legoblock - lightarray\lighting5_specular\glfw_window\main.cpp(545): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\college\second year\interactive media - 3d graphics programming\valcourt_hugo_legoblock - lightarray\lighting5_specular\glfw_window\main.cpp(546): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\college\second year\interactive media - 3d graphics programming\valcourt_hugo_legoblock - lightarray\lighting5_specular\glfw_window\main.cpp(573): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\college\second year\interactive media - 3d graphics programming\valcourt_hugo_legoblock - lightarray\lighting5_specular\glfw_window\main.cpp(586): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GLFW_window.vcxproj -> D:\College\Second Year\Interactive Media - 3D Graphics Programming\Valcourt_Hugo_LegoBlock - LightArray\Lighting5_Specular\x64\Debug\LegoWithLightArrays.exe
